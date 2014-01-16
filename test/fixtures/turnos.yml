@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  alumno: MyString
+  comentario: MyText
+  evaluacion: 1
+  fecha: 2014-01-15
+  hora: 2014-01-15 18:52:32
+
+two:
+  alumno: MyString
+  comentario: MyText
+  evaluacion: 1
+  fecha: 2014-01-15
+  hora: 2014-01-15 18:52:32

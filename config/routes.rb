@@ -1,4 +1,7 @@
 ClasesGuitarra::Application.routes.draw do
+  resources :alumnos
+
+  get "alumnos/calificar"
   resources :turnos
 
   # The priority is based upon order of creation: first created -> highest priority.
